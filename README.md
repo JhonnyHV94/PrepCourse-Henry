@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo 2 de Henry
+Jhonatan Holguin Velasquez
+Modulo 2 Repositorio de GITHUD desscargado y modificado en la PC 
